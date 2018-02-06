@@ -1,6 +1,6 @@
 
 def increment_by_one(x):
-    return x+1
+    return x+5
 
 def increment_by_two(x):
     return x+2
